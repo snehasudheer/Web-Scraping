@@ -1,3 +1,3 @@
-# Web-Scraping-a-site-with-pagination
+# Web-Scraping
 
 Scraped relevant details of a website with pagination using BeautifulSoup.
